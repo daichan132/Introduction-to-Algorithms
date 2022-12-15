@@ -1,4 +1,4 @@
-# Introduction-to-Algorithms-seminar
+# Introduction-to-Algorithms
 
 世界標準のアルゴリズムの教科書である Introduction to Algorithms で紹介されているアルゴリズムを、python のコードで実装する場所。
 
