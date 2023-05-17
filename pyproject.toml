@@ -8,6 +8,12 @@ authors = ["daichan132 <wakadai0319@gmail.com>"]
 python = "^3.9"
 black = "^22.10.0"
 graphviz = "^0.20.1"
+matplotlib = "^3.7.1"
+binarytree = "^6.5.1"
+pygraphviz = "^1.10"
+networkx = "^3.1"
+pydot = "^1.4.2"
+pydot-ng = "^2.0.0"
 
 [tool.poetry.dev-dependencies]
 
